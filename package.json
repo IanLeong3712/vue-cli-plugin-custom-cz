@@ -1,3 +1,19 @@
 {
-  "name": "vue-cli-plugin-commitizen"
+  "name": "vue-cli-plugin-commitizen",
+  "description": "vue cli commitizen plugin",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IanLeong3712/vue-cli-plugin-custom-cz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IanLeong3712/vue-cli-plugin-custom-cz/issues"
+  },
+  "homepage": "https://github.com/IanLeong3712/vue-cli-plugin-custom-cz#readme"
 }
